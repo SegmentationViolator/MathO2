@@ -1,2 +1,2 @@
-# MathO2
-math stuff implemented in rust
+# MathO2 (Math Oxide)
+Math stuff implemented in rust
